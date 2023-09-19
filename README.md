@@ -8,6 +8,7 @@ Software Engineer from Georgia
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [lado.asambadze1@gmail.com](mailto:lado.asambadze1@gmail.com)
+* ✉️  You can contact me at [[lado.asambadze1@gmail.com](mailto:lado.asambadze1@gmail.com)](https://www.linkedin.com/in/lado-asambadze-7189b6201/)
 
 ### Skills
 

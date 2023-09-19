@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Lado</h1>
 <h3 align="center">A passionate full stack developer from Georgia</h3>
+<h2 align="left">Hello, I'm Lado, a result-oriented software engineer. I have a strong curiosity and a genuine passion for studying, which makes exploring new technologies, languages, and libraries an incredibly captivating experience for me. I thrive on this continuous learning journey and thoroughly enjoy every moment of it. Additionally, I have a deep love for creativity, which adds an exciting dimension to my programming endeavors.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladoasambadze&label=Profile%20views&color=0e75b6&style=flat" alt="ladoasambadze" /> </p>
 

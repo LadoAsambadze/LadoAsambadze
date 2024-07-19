@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer from Georgia
 ------------------------------
 
-:man\_technologist: Hello, I'm Lado, a result-oriented software engineer. I have a strong curiosity and a genuine passion for studying, which makes exploring new technologies, languages, and libraries an incredibly captivating experience for me. I thrive on this continuous learning journey and thoroughly enjoy every moment of it. Additionally, I have a deep love for creativity, which adds an exciting dimension to my programming endeavors.
-
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [lado.asambadze1@gmail.com](mailto:lado.asambadze1@gmail.com)
 
